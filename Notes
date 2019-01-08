@@ -1,0 +1,6 @@
+$ git add index.html
+$ git add .  (adds all files)
+$ git commit -m 'added second line of story'
+$ git push origin master
+
+$ git pull origin master
